@@ -1,0 +1,501 @@
+Player,Team,Match_Type,Venue,Runs_Scored,Balls_Faced,Strike_Rate,Wickets_Taken,Economy_Rate,Predicted_Winner,Prediction_Probability,Actual_Winner,Betting_Odds,Social_Platform,Likes,Shares,Comments,Sentiment_Score
+Player 27,Team D,T20,Dubai,27,128,21.09,4,9.85,Team C,90.88,Team C,3.68,Twitter,4794,3811,1818,0.52
+Player 29,Team B,ODI,Dubai,47,81,58.02,1,6.62,Team B,89.95,Team C,1.73,Facebook,22587,2330,275,0.77
+Player 8,Team E,Test,Dubai,171,83,206.02,4,8.82,Team C,98.57,Team C,2.7,Twitter,29321,4150,1542,-0.33
+Player 6,Team E,ODI,Cape Town,44,77,57.14,0,6.99,Team B,58.09,Team B,4.42,Facebook,48055,2016,590,-0.22
+Player 71,Team A,Test,Sydney,49,78,62.82,5,9.56,Team E,73.8,Team A,3.1,YouTube,40215,874,1890,-0.71
+Player 39,Team A,ODI,Cape Town,195,146,133.56,1,5.11,Team E,57.51,Team D,1.63,YouTube,9251,851,94,-0.29
+Player 21,Team B,ODI,Dubai,142,143,99.3,1,8.74,Team A,75.13,Team D,3.93,Twitter,18076,2424,347,0.01
+Player 62,Team B,ODI,Dubai,173,86,201.16,1,9.74,Team C,90.54,Team C,3.81,Twitter,16643,1972,540,-0.69
+Player 100,Team D,T20,Mumbai,49,139,35.25,5,5.32,Team C,55.35,Team C,3.03,YouTube,1515,3090,1435,-0.46
+Player 98,Team B,T20,Cape Town,34,142,23.94,0,5.9,Team B,96.4,Team B,3.71,YouTube,3722,2948,1170,0.26
+Player 93,Team A,ODI,Dubai,160,14,1142.86,2,6.48,Team D,76.58,Team D,4.49,Facebook,41716,4861,1504,0.23
+Player 90,Team B,Test,Dubai,20,106,18.87,0,6.82,Team D,77.6,Team D,3.35,YouTube,44487,2524,238,0.38
+Player 41,Team D,ODI,London,74,124,59.68,4,8.98,Team D,76.96,Team A,4.48,Twitter,29224,3846,671,0.84
+Player 32,Team C,ODI,Sydney,197,59,333.9,0,4.71,Team C,84.09,Team E,2.1,Facebook,11024,3340,474,-0.17
+Player 51,Team C,T20,London,166,90,184.44,2,5.95,Team D,50.03,Team A,2.0,Instagram,42360,192,568,0.56
+Player 81,Team C,ODI,Mumbai,129,123,104.88,3,8.96,Team D,64.02,Team E,2.22,Facebook,7289,4644,1541,-0.52
+Player 46,Team D,ODI,Mumbai,90,18,500.0,4,4.92,Team E,92.51,Team D,4.76,Facebook,43818,1167,1496,0.01
+Player 51,Team B,ODI,Mumbai,152,126,120.63,2,8.98,Team A,93.69,Team B,2.75,Instagram,7730,3828,146,-0.0
+Player 6,Team A,Test,Sydney,203,40,507.5,1,5.5,Team B,71.59,Team A,2.5,Instagram,41214,2773,1196,0.54
+Player 87,Team D,T20,Cape Town,150,64,234.38,4,9.5,Team A,53.44,Team C,3.99,Facebook,34710,2048,356,-0.13
+Player 14,Team E,Test,Sydney,159,97,163.92,0,9.54,Team B,92.6,Team B,1.59,YouTube,17696,1019,1489,0.24
+Player 1,Team B,T20,Cape Town,119,46,258.7,3,4.97,Team C,63.66,Team B,4.32,Instagram,33587,4152,1837,0.2
+Player 80,Team E,Test,Sydney,313,37,845.95,3,8.69,Team B,77.62,Team E,2.72,Twitter,38095,1335,1440,-0.56
+Player 45,Team A,T20,London,76,112,67.86,3,6.86,Team A,77.57,Team E,3.3,Twitter,18128,4944,417,0.73
+Player 41,Team A,T20,Dubai,167,1,16700.0,5,9.16,Team B,50.26,Team D,3.13,Twitter,48933,3943,607,0.61
+Player 12,Team E,Test,Mumbai,35,55,63.64,3,6.55,Team D,82.05,Team B,1.51,YouTube,10747,1423,274,0.64
+Player 1,Team E,Test,London,368,34,1082.35,4,5.63,Team C,76.71,Team C,4.84,YouTube,49222,2948,1286,-0.64
+Player 47,Team C,T20,Sydney,168,25,672.0,5,6.77,Team B,96.37,Team E,4.67,Instagram,29189,3768,455,-0.43
+Player 67,Team B,Test,Dubai,31,11,281.82,4,5.68,Team A,91.56,Team D,4.09,YouTube,33204,2545,1899,-0.07
+Player 39,Team C,ODI,Cape Town,140,9,1555.56,3,8.06,Team A,74.77,Team B,3.22,YouTube,18862,4040,891,0.34
+Player 86,Team C,T20,Sydney,37,142,26.06,2,9.82,Team B,56.4,Team C,4.72,YouTube,8687,2366,1906,0.61
+Player 69,Team D,ODI,London,54,102,52.94,5,5.76,Team B,82.75,Team B,3.06,Instagram,30412,190,1062,0.09
+Player 92,Team C,Test,London,99,113,87.61,3,7.75,Team A,53.08,Team C,2.33,Twitter,38805,1872,1755,-0.77
+Player 1,Team B,T20,Dubai,19,79,24.05,1,6.16,Team C,61.54,Team C,2.58,Facebook,8993,856,1372,0.94
+Player 64,Team C,Test,Sydney,211,94,224.47,4,5.03,Team C,84.12,Team C,3.22,Facebook,22487,4927,1539,0.01
+Player 58,Team E,Test,Dubai,49,109,44.95,1,9.98,Team E,92.45,Team D,3.36,Instagram,19749,250,996,-0.21
+Player 60,Team C,T20,Sydney,6,34,17.65,0,6.45,Team C,54.8,Team A,4.89,YouTube,7882,2617,1935,-0.06
+Player 71,Team E,ODI,Sydney,58,5,1160.0,1,4.86,Team C,56.56,Team D,1.75,YouTube,22830,3668,278,0.76
+Player 61,Team D,ODI,Sydney,70,70,100.0,3,9.38,Team E,71.72,Team B,3.52,YouTube,3631,2634,914,-0.01
+Player 60,Team C,ODI,Mumbai,21,40,52.5,2,7.59,Team B,85.56,Team A,4.45,YouTube,2697,2158,1942,0.49
+Player 44,Team B,Test,Sydney,355,136,261.03,4,5.15,Team B,69.95,Team E,3.9,Instagram,44177,2550,250,-0.37
+Player 36,Team B,ODI,Cape Town,52,80,65.0,4,9.5,Team D,58.08,Team D,2.18,Twitter,29628,4888,914,-0.31
+Player 100,Team D,ODI,Mumbai,160,62,258.06,2,5.79,Team D,90.1,Team E,3.81,Twitter,39044,726,727,-0.38
+Player 18,Team D,Test,Cape Town,209,78,267.95,4,7.59,Team D,87.58,Team A,2.04,Instagram,41333,131,759,-0.83
+Player 18,Team E,Test,Mumbai,93,25,372.0,4,5.28,Team C,87.44,Team E,4.12,YouTube,13569,414,940,0.73
+Player 38,Team B,Test,London,399,13,3069.23,5,7.63,Team A,97.53,Team C,1.62,Instagram,40175,4609,1070,-0.28
+Player 40,Team A,ODI,Mumbai,105,103,101.94,5,7.14,Team C,61.03,Team C,1.76,Twitter,30020,313,1304,-0.02
+Player 99,Team D,Test,Cape Town,106,88,120.45,2,6.58,Team B,87.02,Team B,4.19,Facebook,26922,2234,510,0.47
+Player 53,Team A,T20,Cape Town,20,29,68.97,1,4.6,Team C,96.19,Team E,3.17,Twitter,4697,2074,339,0.12
+Player 45,Team C,ODI,Sydney,92,95,96.84,4,5.45,Team B,94.18,Team D,3.51,Instagram,42052,1959,516,0.22
+Player 99,Team D,ODI,Mumbai,15,34,44.12,1,3.43,Team B,91.66,Team E,4.08,Twitter,44813,3664,1150,0.45
+Player 56,Team A,T20,London,77,36,213.89,2,9.96,Team A,70.1,Team C,4.44,Facebook,40637,548,92,-0.28
+Player 30,Team B,T20,Mumbai,79,38,207.89,4,3.17,Team D,63.28,Team A,1.68,YouTube,37393,2523,1225,0.56
+Player 13,Team C,ODI,London,73,134,54.48,0,9.88,Team C,80.09,Team D,3.53,YouTube,31761,150,735,-0.86
+Player 74,Team B,ODI,Dubai,161,126,127.78,2,3.45,Team B,75.07,Team C,4.47,YouTube,21578,1403,1312,1.0
+Player 40,Team C,Test,Dubai,340,117,290.6,5,3.44,Team A,89.26,Team D,3.06,YouTube,12604,4098,1807,0.86
+Player 1,Team C,Test,London,210,15,1400.0,2,3.7,Team D,67.5,Team C,1.95,Twitter,40658,2241,442,-0.21
+Player 11,Team D,T20,Cape Town,27,30,90.0,4,4.28,Team D,91.8,Team B,3.11,YouTube,26301,2296,862,-0.69
+Player 86,Team D,Test,Dubai,154,119,129.41,2,6.44,Team A,77.54,Team C,1.77,Facebook,31511,921,1929,-0.77
+Player 32,Team E,T20,Dubai,184,138,133.33,0,9.35,Team A,61.21,Team C,2.44,Twitter,23791,2564,806,-0.67
+Player 39,Team A,T20,Mumbai,168,44,381.82,2,3.68,Team C,83.45,Team C,4.66,Twitter,32821,1828,1572,0.72
+Player 24,Team C,T20,Dubai,59,71,83.1,4,4.31,Team D,78.69,Team D,3.45,Instagram,48244,2638,1251,0.62
+Player 49,Team E,T20,London,79,3,2633.33,2,8.73,Team D,91.34,Team D,4.85,Twitter,21386,2626,1758,-0.79
+Player 3,Team E,T20,London,31,56,55.36,2,6.85,Team A,88.39,Team C,2.44,Instagram,23538,3814,515,-0.1
+Player 49,Team C,Test,Dubai,293,135,217.04,1,8.21,Team A,93.41,Team B,3.17,Twitter,30477,3395,403,0.6
+Player 32,Team D,T20,London,82,120,68.33,1,6.98,Team E,68.77,Team B,2.98,YouTube,11311,637,1534,0.9
+Player 95,Team B,Test,Mumbai,97,44,220.45,2,6.52,Team B,93.75,Team E,4.42,Facebook,21099,3980,445,0.18
+Player 43,Team A,T20,Mumbai,167,26,642.31,1,4.83,Team E,59.32,Team D,4.83,Twitter,20169,1150,1771,0.71
+Player 90,Team B,Test,Sydney,338,40,845.0,1,8.05,Team B,87.11,Team B,4.89,Twitter,2459,3759,1472,-0.72
+Player 20,Team B,T20,Sydney,183,38,481.58,1,4.37,Team E,89.81,Team A,2.39,YouTube,17370,3470,1794,0.28
+Player 15,Team B,Test,Sydney,247,33,748.48,5,3.79,Team E,91.91,Team E,1.62,Twitter,28911,3583,1109,0.15
+Player 59,Team A,ODI,Sydney,139,138,100.72,3,8.33,Team C,82.09,Team C,1.55,YouTube,39713,2454,534,-0.43
+Player 25,Team B,T20,Cape Town,170,96,177.08,4,8.23,Team A,78.06,Team D,1.67,Twitter,5854,1875,477,0.23
+Player 47,Team C,T20,London,74,88,84.09,3,7.15,Team C,85.91,Team A,1.92,Twitter,18176,2929,1730,-0.03
+Player 74,Team A,T20,Mumbai,82,110,74.55,2,5.35,Team E,58.89,Team A,2.07,YouTube,48762,1084,108,-0.1
+Player 88,Team A,ODI,Dubai,185,75,246.67,1,6.79,Team D,93.03,Team A,4.07,YouTube,33415,3988,406,-0.92
+Player 70,Team C,ODI,Dubai,10,34,29.41,1,3.36,Team E,53.95,Team A,3.31,Twitter,17041,515,887,-0.45
+Player 81,Team E,T20,Dubai,197,1,19700.0,3,6.45,Team C,64.66,Team B,2.12,Twitter,9207,1022,1117,-0.32
+Player 98,Team B,ODI,Sydney,171,125,136.8,3,4.43,Team E,83.53,Team B,3.2,Instagram,8951,590,442,-0.58
+Player 8,Team C,T20,Mumbai,117,9,1300.0,2,4.79,Team D,56.8,Team E,1.99,Facebook,46015,4396,1309,0.17
+Player 13,Team E,T20,Sydney,19,125,15.2,5,7.54,Team D,57.74,Team C,4.31,Facebook,1497,3381,736,0.52
+Player 49,Team E,T20,Cape Town,183,134,136.57,2,6.04,Team C,54.78,Team D,2.75,Twitter,39379,1898,1540,0.85
+Player 46,Team B,ODI,Mumbai,60,9,666.67,2,3.96,Team D,60.96,Team D,1.89,Twitter,27784,1560,923,-0.98
+Player 86,Team C,T20,Dubai,9,67,13.43,2,3.41,Team D,80.61,Team D,4.5,Instagram,47402,1855,987,-0.6
+Player 74,Team B,ODI,Sydney,95,98,96.94,4,6.4,Team E,57.87,Team A,2.78,Facebook,23698,1370,1421,0.45
+Player 38,Team B,ODI,Dubai,78,63,123.81,5,8.53,Team B,92.46,Team E,2.4,Twitter,35158,3137,1891,-0.35
+Player 45,Team D,ODI,Sydney,21,19,110.53,0,5.86,Team C,80.5,Team A,2.1,YouTube,26702,3328,643,-0.23
+Player 95,Team D,T20,Cape Town,131,66,198.48,3,8.11,Team A,98.35,Team E,2.69,Twitter,40829,3665,1114,0.2
+Player 58,Team D,ODI,Mumbai,184,69,266.67,4,8.68,Team C,86.53,Team A,4.31,Instagram,17303,983,1607,0.67
+Player 28,Team D,T20,Sydney,163,127,128.35,1,7.41,Team B,51.83,Team A,3.85,YouTube,15205,4625,709,-0.9
+Player 69,Team B,Test,Dubai,175,49,357.14,3,3.75,Team D,72.37,Team D,4.18,YouTube,7109,518,1097,-0.1
+Player 97,Team E,ODI,London,77,91,84.62,3,3.17,Team E,52.47,Team D,4.04,YouTube,35422,674,1669,-0.59
+Player 68,Team E,Test,Cape Town,146,36,405.56,2,3.51,Team A,70.07,Team D,1.83,YouTube,29710,4856,1891,-0.59
+Player 12,Team D,Test,Sydney,216,115,187.83,3,9.79,Team A,92.15,Team C,2.61,Facebook,16929,319,1982,0.73
+Player 60,Team B,Test,Dubai,275,19,1447.37,3,5.69,Team B,89.16,Team E,2.43,YouTube,25982,2044,1918,-0.44
+Player 21,Team C,ODI,Dubai,67,3,2233.33,1,5.94,Team D,94.88,Team B,1.89,Facebook,11089,4731,1026,0.2
+Player 98,Team C,Test,Dubai,66,142,46.48,2,4.54,Team C,58.79,Team D,4.18,Instagram,11316,968,1760,0.52
+Player 14,Team D,ODI,Cape Town,63,8,787.5,4,9.52,Team B,61.41,Team C,3.73,Twitter,21231,4538,1635,0.11
+Player 39,Team E,T20,London,109,56,194.64,3,5.08,Team A,82.53,Team B,2.64,YouTube,22779,2737,1382,-0.88
+Player 67,Team C,ODI,Mumbai,134,63,212.7,5,7.81,Team D,97.57,Team D,4.48,Twitter,8267,4609,1320,-0.25
+Player 47,Team D,Test,Sydney,298,51,584.31,1,8.55,Team B,55.32,Team B,4.72,YouTube,39118,4767,1651,-0.6
+Player 95,Team C,ODI,Cape Town,119,21,566.67,3,4.32,Team B,66.23,Team C,4.01,Twitter,6209,3613,1854,0.02
+Player 71,Team A,ODI,London,125,86,145.35,3,9.89,Team E,74.11,Team A,4.79,Instagram,42865,3547,1498,0.65
+Player 89,Team A,Test,Cape Town,311,150,207.33,1,5.86,Team C,93.27,Team E,2.26,Facebook,20206,4316,1623,-0.66
+Player 45,Team D,ODI,Cape Town,133,15,886.67,5,6.23,Team A,94.24,Team C,4.08,Twitter,47045,1307,141,0.83
+Player 80,Team A,ODI,Dubai,185,88,210.23,5,8.59,Team E,77.61,Team C,4.34,YouTube,13485,4317,115,-0.95
+Player 74,Team B,Test,Dubai,344,39,882.05,5,5.06,Team B,55.79,Team B,4.85,Facebook,22669,415,1093,-0.42
+Player 40,Team D,ODI,Sydney,33,61,54.1,5,3.17,Team B,55.62,Team D,4.86,Instagram,25340,3448,1379,0.91
+Player 10,Team C,Test,London,213,53,401.89,2,4.41,Team C,55.52,Team E,4.14,Twitter,1792,4127,1937,-0.09
+Player 58,Team E,T20,Cape Town,114,99,115.15,2,4.7,Team E,69.39,Team E,4.99,Twitter,49740,3252,1609,-0.87
+Player 7,Team B,T20,Dubai,123,51,241.18,2,8.62,Team C,73.55,Team E,4.91,Twitter,35849,2681,1399,0.39
+Player 73,Team E,T20,Cape Town,198,42,471.43,4,5.04,Team C,82.2,Team D,4.04,Instagram,35000,328,981,0.61
+Player 85,Team D,Test,Cape Town,379,113,335.4,1,4.23,Team C,64.13,Team A,4.0,Twitter,12522,547,1753,-0.92
+Player 99,Team E,T20,Sydney,81,26,311.54,0,8.93,Team B,57.38,Team C,4.75,YouTube,32394,876,656,-0.2
+Player 69,Team D,T20,Dubai,187,80,233.75,1,7.36,Team E,64.18,Team D,3.05,Twitter,48365,147,1076,0.76
+Player 52,Team B,Test,Dubai,177,17,1041.18,3,7.92,Team A,95.96,Team B,4.04,YouTube,28474,1844,1558,0.03
+Player 46,Team D,Test,Sydney,2,102,1.96,4,7.97,Team A,89.66,Team D,1.58,Facebook,10944,1879,447,-0.57
+Player 94,Team B,ODI,Sydney,65,142,45.77,0,3.53,Team D,52.42,Team B,2.57,Twitter,14077,2102,1059,-0.17
+Player 96,Team C,T20,Dubai,57,127,44.88,2,3.62,Team B,97.07,Team A,3.01,Facebook,33476,2179,413,0.35
+Player 70,Team E,T20,London,145,76,190.79,2,7.83,Team A,62.66,Team D,1.57,Twitter,8443,545,1283,0.37
+Player 82,Team C,T20,London,178,133,133.83,3,5.83,Team D,51.54,Team A,2.23,Facebook,25432,3189,356,0.7
+Player 17,Team A,T20,Cape Town,1,127,0.79,3,4.18,Team C,73.61,Team E,1.98,YouTube,1392,3780,325,0.57
+Player 97,Team B,Test,London,326,108,301.85,0,8.63,Team B,92.46,Team E,3.73,YouTube,16273,1071,885,-0.71
+Player 64,Team B,Test,Cape Town,50,116,43.1,4,4.12,Team D,51.97,Team B,4.12,Twitter,35692,948,1367,0.32
+Player 89,Team D,T20,Cape Town,135,119,113.45,2,5.96,Team A,63.42,Team B,4.22,Facebook,38445,4203,1367,-0.93
+Player 97,Team C,ODI,London,142,147,96.6,2,5.95,Team E,58.29,Team A,2.04,YouTube,48327,4129,655,-0.49
+Player 64,Team D,ODI,London,145,85,170.59,0,3.53,Team E,77.92,Team D,3.72,YouTube,4416,4612,68,-0.62
+Player 26,Team C,Test,Mumbai,353,17,2076.47,3,6.46,Team E,79.62,Team E,1.52,Twitter,26352,2652,376,-0.43
+Player 65,Team E,T20,Sydney,36,113,31.86,0,3.79,Team A,54.14,Team D,3.8,Instagram,7479,1743,1539,0.63
+Player 21,Team A,T20,Dubai,125,99,126.26,1,8.18,Team B,65.36,Team B,1.74,Instagram,43759,4586,1237,0.4
+Player 13,Team A,Test,London,76,54,140.74,3,9.23,Team E,67.16,Team E,2.56,YouTube,33087,638,752,0.92
+Player 3,Team A,ODI,Dubai,85,59,144.07,2,4.13,Team C,63.96,Team E,3.18,Twitter,39836,113,1168,-0.13
+Player 45,Team E,ODI,Sydney,166,22,754.55,5,4.08,Team C,75.64,Team B,3.63,Facebook,35657,2958,1235,-0.19
+Player 11,Team A,T20,London,189,97,194.85,4,8.87,Team E,85.49,Team D,3.97,Instagram,23068,4605,1100,0.02
+Player 99,Team C,Test,Mumbai,248,90,275.56,0,6.1,Team B,61.92,Team A,4.61,Twitter,6314,3665,254,0.0
+Player 13,Team E,Test,London,65,57,114.04,5,3.75,Team B,93.43,Team A,2.85,Twitter,39511,1528,191,0.16
+Player 67,Team C,Test,Mumbai,209,144,145.14,0,4.5,Team E,73.16,Team D,4.84,Twitter,35564,3547,350,-0.46
+Player 21,Team A,Test,Dubai,385,31,1241.94,5,8.69,Team E,53.78,Team C,1.5,YouTube,1361,2144,83,-0.99
+Player 48,Team B,Test,Sydney,320,73,438.36,3,8.25,Team D,85.23,Team C,1.62,Facebook,15181,4538,1359,0.46
+Player 64,Team E,ODI,Mumbai,30,19,157.89,1,8.16,Team C,68.59,Team D,2.3,Twitter,35911,953,1904,-0.34
+Player 20,Team C,T20,Mumbai,84,95,88.42,2,6.43,Team D,64.91,Team D,2.75,Twitter,2707,4713,1330,-0.87
+Player 45,Team E,ODI,Sydney,23,11,209.09,5,4.56,Team D,82.4,Team B,2.12,Instagram,39743,1760,1668,0.67
+Player 93,Team E,T20,London,71,16,443.75,3,9.86,Team B,95.04,Team E,1.95,Instagram,47572,1061,508,0.22
+Player 72,Team A,Test,Mumbai,65,132,49.24,1,6.06,Team C,97.73,Team B,3.35,Facebook,45316,548,389,0.6
+Player 54,Team C,T20,Mumbai,78,13,600.0,5,4.17,Team D,78.85,Team B,2.26,Instagram,28594,2158,762,-0.75
+Player 75,Team D,ODI,London,140,66,212.12,1,6.94,Team A,77.48,Team C,1.86,Instagram,30409,3125,1378,-0.84
+Player 93,Team C,ODI,London,177,37,478.38,5,5.75,Team B,88.66,Team C,2.04,YouTube,38100,3421,1035,0.8
+Player 76,Team E,Test,Cape Town,7,110,6.36,2,3.32,Team E,53.0,Team B,3.57,YouTube,45973,3520,690,0.89
+Player 30,Team E,T20,Sydney,150,34,441.18,5,4.56,Team E,82.27,Team B,4.78,Instagram,29228,3859,155,0.91
+Player 49,Team E,Test,Sydney,297,115,258.26,2,5.56,Team B,94.91,Team A,3.27,Twitter,11555,3426,697,0.85
+Player 69,Team A,Test,Cape Town,130,139,93.53,0,6.24,Team B,66.33,Team C,4.13,Facebook,11607,544,1942,0.33
+Player 61,Team E,ODI,Mumbai,43,22,195.45,4,5.01,Team B,96.08,Team B,4.51,Facebook,27346,313,1534,-0.08
+Player 29,Team C,ODI,Cape Town,105,103,101.94,5,5.31,Team E,83.01,Team D,2.83,Facebook,8354,4477,593,-0.04
+Player 46,Team D,Test,Sydney,183,41,446.34,1,6.67,Team E,73.26,Team C,1.54,Facebook,12746,3124,955,-0.96
+Player 83,Team D,ODI,Dubai,199,125,159.2,5,4.19,Team E,81.9,Team B,3.13,Twitter,9446,1681,1308,0.46
+Player 15,Team B,Test,Cape Town,243,36,675.0,1,8.69,Team C,59.24,Team D,4.86,Instagram,41103,1997,948,-0.62
+Player 35,Team E,Test,London,369,24,1537.5,5,6.92,Team B,55.08,Team A,4.85,YouTube,23442,3447,281,-0.72
+Player 39,Team E,Test,London,23,61,37.7,1,6.41,Team D,50.85,Team C,4.32,Instagram,15142,4547,1138,-0.03
+Player 88,Team B,ODI,London,39,97,40.21,4,5.56,Team B,89.43,Team E,2.68,Twitter,26530,2462,998,-0.46
+Player 5,Team A,Test,Sydney,250,113,221.24,5,8.68,Team E,58.09,Team B,4.45,Instagram,41748,1314,64,0.51
+Player 74,Team C,T20,London,186,29,641.38,1,5.42,Team D,65.45,Team D,2.51,Twitter,13875,3176,1113,-1.0
+Player 10,Team A,Test,Sydney,278,98,283.67,1,9.21,Team E,94.22,Team B,3.36,Facebook,20996,4089,283,0.75
+Player 5,Team B,ODI,Sydney,53,85,62.35,3,8.35,Team E,52.1,Team B,2.97,Twitter,34113,2253,1467,-0.82
+Player 73,Team A,T20,Sydney,33,122,27.05,3,6.08,Team D,90.81,Team A,4.25,Facebook,31983,2519,1826,-0.73
+Player 34,Team C,T20,Dubai,159,50,318.0,1,9.91,Team E,97.87,Team D,1.96,YouTube,17979,3095,1917,-0.89
+Player 14,Team C,ODI,London,55,95,57.89,3,3.88,Team D,60.88,Team C,1.74,YouTube,20690,163,1707,0.64
+Player 30,Team C,Test,Sydney,1,80,1.25,5,7.0,Team B,97.92,Team D,4.89,Twitter,46628,310,622,0.03
+Player 9,Team D,Test,Cape Town,369,35,1054.29,0,5.25,Team D,98.95,Team D,3.59,Twitter,20607,2010,1321,0.3
+Player 37,Team B,Test,Dubai,332,49,677.55,1,3.2,Team B,73.39,Team E,3.4,Facebook,24549,2305,230,0.82
+Player 91,Team B,ODI,Cape Town,24,61,39.34,3,6.17,Team A,82.87,Team B,2.08,Facebook,44490,4081,1698,-0.01
+Player 46,Team D,ODI,Dubai,10,117,8.55,0,4.61,Team C,83.78,Team A,3.08,YouTube,22366,1345,915,-0.44
+Player 100,Team D,T20,London,181,25,724.0,0,3.16,Team A,98.89,Team B,2.03,Twitter,37215,3911,1483,-0.66
+Player 43,Team A,T20,Cape Town,105,68,154.41,4,8.79,Team B,72.61,Team E,1.87,Twitter,25352,4077,1445,0.1
+Player 82,Team D,Test,Sydney,16,76,21.05,1,4.63,Team A,50.38,Team E,3.71,Instagram,48915,4783,1678,-0.16
+Player 95,Team B,T20,Cape Town,92,83,110.84,0,9.75,Team E,77.12,Team A,4.12,Twitter,8067,597,851,0.63
+Player 92,Team C,Test,Dubai,343,98,350.0,1,9.7,Team C,89.09,Team A,3.12,YouTube,7869,4354,568,-0.29
+Player 79,Team C,ODI,London,173,135,128.15,5,3.99,Team E,91.78,Team A,4.55,Facebook,15976,1034,858,-0.74
+Player 5,Team B,T20,London,74,74,100.0,5,5.12,Team C,87.13,Team D,1.61,Facebook,30303,3064,387,0.48
+Player 46,Team C,T20,Dubai,135,57,236.84,1,8.39,Team B,84.56,Team B,2.79,YouTube,28754,4607,1191,-0.27
+Player 62,Team E,T20,Sydney,64,98,65.31,4,9.91,Team E,82.47,Team E,3.6,Instagram,30413,4568,690,-0.73
+Player 34,Team D,Test,Mumbai,207,62,333.87,1,5.88,Team E,81.78,Team B,4.0,YouTube,28321,3794,755,-0.29
+Player 17,Team C,Test,London,283,4,7075.0,5,3.06,Team B,87.53,Team D,4.41,Instagram,32618,2980,303,0.78
+Player 78,Team A,Test,Dubai,235,93,252.69,2,5.08,Team D,80.39,Team B,2.31,Instagram,46596,4483,745,-0.46
+Player 6,Team D,Test,Sydney,67,89,75.28,5,5.95,Team B,90.0,Team E,2.96,YouTube,13187,2925,1323,0.91
+Player 45,Team A,T20,Sydney,185,11,1681.82,1,3.66,Team C,60.21,Team E,1.93,Instagram,34450,2813,426,0.93
+Player 55,Team A,Test,Sydney,274,18,1522.22,0,5.6,Team D,88.08,Team B,2.01,Twitter,14665,4170,450,-0.25
+Player 86,Team B,ODI,Sydney,33,18,183.33,1,9.67,Team B,59.04,Team D,2.89,Instagram,26168,1986,1829,-0.6
+Player 24,Team E,Test,Mumbai,105,3,3500.0,3,3.63,Team A,76.03,Team C,3.78,Twitter,13987,2470,1462,-0.05
+Player 18,Team C,Test,Mumbai,283,92,307.61,5,8.74,Team B,68.22,Team A,3.37,Facebook,33361,4124,1714,0.2
+Player 4,Team A,T20,London,6,63,9.52,3,9.16,Team E,75.22,Team D,1.88,Facebook,2714,2640,1853,0.71
+Player 50,Team A,ODI,Mumbai,55,82,67.07,0,7.05,Team D,56.22,Team E,3.3,YouTube,45789,683,526,0.42
+Player 40,Team B,T20,Dubai,157,37,424.32,0,3.33,Team D,68.94,Team E,2.84,Twitter,47487,854,1681,-0.33
+Player 41,Team A,T20,Sydney,72,105,68.57,5,8.21,Team E,88.84,Team A,3.12,Facebook,3660,2457,1373,-0.12
+Player 4,Team A,ODI,London,43,50,86.0,1,9.88,Team A,97.69,Team D,2.24,Twitter,22071,2880,542,-0.06
+Player 75,Team C,T20,Dubai,158,109,144.95,4,4.7,Team E,94.98,Team C,4.58,Twitter,40333,4804,271,0.43
+Player 94,Team B,ODI,Dubai,103,108,95.37,4,9.77,Team D,83.9,Team B,4.67,Facebook,21526,2242,813,-0.45
+Player 54,Team D,Test,Sydney,337,105,320.95,0,9.79,Team E,56.12,Team B,3.91,YouTube,28596,1946,835,-0.15
+Player 67,Team C,T20,London,92,92,100.0,4,3.12,Team A,70.74,Team A,4.81,Twitter,14856,3668,1320,0.97
+Player 65,Team C,ODI,Dubai,186,106,175.47,1,7.97,Team B,61.64,Team B,1.6,YouTube,37993,2135,172,-0.34
+Player 32,Team A,T20,London,92,98,93.88,0,6.41,Team E,96.23,Team B,3.57,Twitter,39631,2650,476,-0.15
+Player 11,Team C,ODI,Sydney,71,21,338.1,1,8.53,Team A,86.63,Team D,1.54,Twitter,30996,935,1352,-0.84
+Player 37,Team A,T20,London,197,92,214.13,4,5.12,Team D,75.95,Team A,2.23,YouTube,18141,4048,1389,-0.42
+Player 71,Team D,Test,Dubai,372,10,3720.0,2,8.69,Team B,80.27,Team C,4.86,YouTube,44289,3859,928,0.6
+Player 53,Team C,T20,Cape Town,8,37,21.62,1,3.9,Team B,51.33,Team A,2.7,Instagram,26111,4947,929,0.78
+Player 67,Team B,T20,London,17,51,33.33,0,4.73,Team A,94.18,Team C,4.04,Instagram,28329,1630,1932,-0.78
+Player 53,Team D,ODI,Sydney,104,145,71.72,3,10.0,Team D,75.64,Team B,3.17,YouTube,2014,1858,809,0.0
+Player 97,Team D,T20,Dubai,59,35,168.57,5,5.05,Team E,85.86,Team D,2.89,Facebook,20181,1168,1727,-0.06
+Player 91,Team C,Test,London,118,126,93.65,4,8.48,Team C,81.6,Team E,3.07,Twitter,41216,2161,1841,-0.2
+Player 99,Team C,T20,Cape Town,183,28,653.57,3,8.91,Team A,66.81,Team A,4.02,Twitter,36510,913,1165,0.53
+Player 70,Team B,Test,Mumbai,363,11,3300.0,3,6.19,Team C,69.0,Team E,4.46,Twitter,4419,4393,167,0.07
+Player 90,Team D,ODI,Cape Town,151,96,157.29,3,5.59,Team E,63.07,Team C,3.84,Twitter,31890,4402,383,0.9
+Player 21,Team C,Test,Dubai,292,7,4171.43,4,9.34,Team C,88.35,Team B,2.52,Twitter,36708,3188,955,-0.47
+Player 65,Team E,T20,Sydney,76,100,76.0,2,5.38,Team D,90.36,Team A,2.99,YouTube,32806,1896,772,0.08
+Player 35,Team E,Test,Dubai,397,23,1726.09,2,8.68,Team D,64.65,Team C,4.97,Twitter,31489,2627,228,0.59
+Player 67,Team D,T20,Dubai,42,59,71.19,3,6.28,Team D,88.42,Team A,2.3,Instagram,2666,1588,505,-0.34
+Player 33,Team B,Test,Dubai,2,31,6.45,4,8.45,Team E,58.28,Team D,2.23,Facebook,35886,2530,887,-0.52
+Player 96,Team D,ODI,Mumbai,79,47,168.09,1,5.44,Team A,68.39,Team C,4.97,Twitter,37146,1745,1071,0.69
+Player 17,Team C,T20,Sydney,42,22,190.91,1,9.32,Team C,77.25,Team B,3.65,Instagram,39832,4397,1268,0.75
+Player 73,Team D,Test,Cape Town,395,55,718.18,2,3.72,Team B,87.07,Team B,1.82,Instagram,10305,1741,748,-0.52
+Player 92,Team A,T20,Cape Town,145,13,1115.38,1,3.15,Team B,67.41,Team C,3.36,Twitter,27556,2446,1979,0.06
+Player 60,Team A,ODI,Mumbai,77,39,197.44,3,4.01,Team E,72.6,Team B,4.92,Instagram,27044,1589,911,0.13
+Player 44,Team B,ODI,Mumbai,184,109,168.81,3,8.25,Team C,94.87,Team B,2.61,YouTube,2622,3910,1461,-0.29
+Player 78,Team A,T20,Cape Town,159,119,133.61,3,4.14,Team A,67.34,Team A,4.55,YouTube,33124,1881,1929,-0.76
+Player 20,Team B,T20,Sydney,74,114,64.91,0,8.22,Team A,90.79,Team C,3.06,YouTube,7777,1901,755,0.81
+Player 44,Team A,Test,London,287,14,2050.0,5,9.2,Team D,63.41,Team C,3.79,Twitter,49482,1506,1016,0.88
+Player 79,Team B,ODI,London,159,27,588.89,5,5.04,Team A,78.98,Team E,2.01,YouTube,18864,1363,1248,0.16
+Player 2,Team E,Test,Cape Town,93,88,105.68,2,5.49,Team E,68.31,Team A,1.56,Instagram,38505,3914,907,-0.14
+Player 45,Team B,Test,Sydney,394,24,1641.67,2,6.82,Team D,71.63,Team E,3.81,Twitter,35802,1703,1233,-0.44
+Player 55,Team B,ODI,Sydney,23,111,20.72,2,3.6,Team B,53.39,Team B,3.75,Instagram,31396,569,1585,0.82
+Player 62,Team C,Test,Dubai,112,135,82.96,4,3.49,Team D,84.51,Team A,4.64,Twitter,22961,3230,1041,-0.37
+Player 30,Team A,T20,Sydney,196,62,316.13,1,4.88,Team B,86.71,Team C,2.86,Twitter,44184,2711,1606,0.78
+Player 84,Team E,ODI,Cape Town,167,57,292.98,2,7.1,Team D,70.48,Team A,1.54,Facebook,24793,3492,1919,0.54
+Player 42,Team D,T20,Sydney,60,102,58.82,3,4.61,Team B,94.13,Team B,3.65,YouTube,21820,1941,1443,0.7
+Player 66,Team B,T20,London,119,6,1983.33,3,8.17,Team C,55.27,Team B,4.64,Facebook,26176,2034,1795,-0.71
+Player 1,Team E,T20,London,152,70,217.14,4,3.34,Team C,85.71,Team B,2.87,YouTube,48891,581,272,0.56
+Player 65,Team A,ODI,Cape Town,175,25,700.0,1,9.29,Team A,86.85,Team C,1.77,Instagram,9249,1585,1082,0.43
+Player 93,Team D,Test,Cape Town,227,131,173.28,4,5.97,Team B,82.53,Team B,2.28,YouTube,42630,4128,120,0.42
+Player 18,Team E,T20,Cape Town,129,150,86.0,1,7.38,Team D,71.0,Team D,3.54,YouTube,7017,3958,206,-0.89
+Player 38,Team B,ODI,Dubai,85,142,59.86,3,5.83,Team E,77.7,Team B,4.91,Twitter,30062,958,741,0.68
+Player 59,Team B,ODI,Cape Town,12,97,12.37,5,5.35,Team B,98.46,Team E,3.52,Instagram,27519,4394,1976,-0.06
+Player 3,Team E,Test,Dubai,36,107,33.64,3,7.59,Team E,65.79,Team A,3.23,Instagram,20750,4822,277,-0.47
+Player 6,Team E,Test,Dubai,112,140,80.0,5,9.99,Team E,85.27,Team D,3.14,Instagram,10048,1267,178,-0.84
+Player 42,Team A,Test,London,19,139,13.67,5,3.49,Team A,74.17,Team A,4.57,YouTube,41426,4254,1719,-0.6
+Player 16,Team D,Test,Sydney,234,123,190.24,5,7.19,Team D,61.87,Team D,4.39,Twitter,26909,3659,1730,-0.86
+Player 16,Team A,Test,London,94,149,63.09,3,3.2,Team A,75.37,Team B,4.32,Facebook,40611,4578,1425,-0.47
+Player 9,Team C,T20,London,56,13,430.77,1,6.78,Team D,58.84,Team C,3.36,Facebook,31358,1544,232,0.2
+Player 9,Team A,Test,Cape Town,185,104,177.88,2,6.32,Team B,81.95,Team B,4.32,Twitter,43287,2232,1968,0.86
+Player 95,Team E,T20,Dubai,116,119,97.48,2,9.63,Team E,79.24,Team D,2.01,Facebook,27759,492,409,-0.68
+Player 62,Team A,ODI,Sydney,67,88,76.14,1,5.37,Team A,60.44,Team B,3.59,Facebook,2294,590,470,-0.1
+Player 33,Team E,T20,Cape Town,115,150,76.67,2,4.45,Team D,95.06,Team B,4.56,Twitter,45833,2823,748,-0.34
+Player 30,Team E,T20,Dubai,173,74,233.78,3,5.6,Team E,56.36,Team A,2.1,Twitter,8200,3213,695,-0.31
+Player 27,Team E,ODI,London,47,118,39.83,1,7.51,Team D,70.68,Team E,1.99,YouTube,23642,1209,82,0.36
+Player 71,Team B,T20,Sydney,75,137,54.74,3,9.09,Team C,58.65,Team C,2.36,Instagram,48372,4097,1610,0.21
+Player 57,Team D,Test,London,278,79,351.9,5,3.94,Team A,92.18,Team D,2.12,Twitter,12337,3653,1420,0.37
+Player 45,Team D,T20,Sydney,151,122,123.77,1,7.28,Team A,51.48,Team E,1.67,YouTube,28405,2920,1068,0.74
+Player 73,Team B,T20,Dubai,162,127,127.56,3,3.44,Team E,92.54,Team A,4.33,Twitter,29106,1864,1827,-0.37
+Player 77,Team C,ODI,Sydney,80,5,1600.0,2,6.29,Team D,62.76,Team A,4.79,Instagram,32219,971,608,0.75
+Player 60,Team C,Test,Sydney,335,88,380.68,1,8.79,Team D,54.98,Team B,4.51,Instagram,15373,1346,1559,0.88
+Player 55,Team B,T20,Mumbai,102,9,1133.33,3,6.41,Team C,69.11,Team A,2.35,Twitter,27642,1797,1301,0.38
+Player 11,Team B,Test,Dubai,377,107,352.34,5,8.31,Team B,66.52,Team E,2.59,YouTube,15983,2770,1492,-0.1
+Player 92,Team A,T20,Mumbai,181,145,124.83,3,7.33,Team D,95.72,Team D,4.95,YouTube,13868,4824,1597,-0.05
+Player 53,Team B,ODI,Sydney,121,81,149.38,0,7.63,Team D,81.06,Team C,4.92,Facebook,35904,1258,753,-0.38
+Player 98,Team A,Test,London,37,43,86.05,3,9.67,Team E,70.61,Team D,4.39,Twitter,43455,3078,91,0.14
+Player 97,Team C,T20,Sydney,120,92,130.43,5,3.65,Team C,97.24,Team D,4.1,YouTube,37869,4390,1141,0.98
+Player 34,Team A,Test,Cape Town,394,43,916.28,4,7.5,Team A,54.72,Team D,3.12,YouTube,3312,974,303,0.05
+Player 67,Team A,ODI,Cape Town,29,5,580.0,3,9.08,Team B,93.95,Team E,4.9,Instagram,32110,3641,516,0.2
+Player 88,Team C,ODI,Sydney,67,52,128.85,5,8.69,Team D,91.61,Team C,2.1,Facebook,29338,852,1224,0.49
+Player 9,Team A,Test,London,95,66,143.94,1,3.14,Team C,69.26,Team E,2.53,Facebook,21424,4967,851,-0.48
+Player 100,Team B,Test,Cape Town,68,34,200.0,3,6.73,Team B,91.18,Team E,3.17,Twitter,6431,4709,1623,0.79
+Player 23,Team B,T20,Dubai,147,67,219.4,2,4.42,Team A,88.16,Team B,2.47,Facebook,20823,626,556,-0.54
+Player 45,Team E,Test,London,53,13,407.69,0,3.04,Team A,66.28,Team D,1.98,YouTube,40321,1708,740,-0.36
+Player 88,Team D,Test,Cape Town,112,135,82.96,5,8.57,Team D,95.05,Team A,3.66,Twitter,37587,3968,954,-0.49
+Player 79,Team C,ODI,Mumbai,23,112,20.54,4,8.38,Team B,83.9,Team E,3.38,Facebook,16123,4606,1355,0.18
+Player 8,Team A,T20,Cape Town,139,24,579.17,1,8.19,Team C,77.91,Team A,4.58,Instagram,39188,549,209,0.7
+Player 39,Team C,T20,Dubai,62,10,620.0,5,6.54,Team E,65.62,Team C,1.67,Instagram,36609,1992,401,-0.23
+Player 54,Team B,Test,London,327,66,495.45,0,7.4,Team D,82.33,Team C,2.59,Instagram,39870,371,1200,0.78
+Player 82,Team D,ODI,Mumbai,96,36,266.67,4,5.19,Team B,75.56,Team E,3.86,YouTube,39388,3576,481,-0.45
+Player 80,Team C,Test,Dubai,388,64,606.25,0,5.15,Team E,91.17,Team D,3.13,Instagram,15547,1790,1348,0.63
+Player 75,Team E,Test,Dubai,329,86,382.56,5,3.39,Team A,69.25,Team C,2.38,Twitter,25520,2784,195,-0.07
+Player 11,Team C,ODI,Sydney,34,76,44.74,5,4.87,Team C,92.93,Team E,3.02,Twitter,49897,4367,1143,0.55
+Player 60,Team A,ODI,Dubai,106,100,106.0,2,6.81,Team C,81.82,Team E,2.18,Instagram,14724,1790,101,-0.67
+Player 73,Team C,T20,Mumbai,149,19,784.21,5,4.4,Team B,68.84,Team C,3.75,YouTube,40990,1370,1572,0.75
+Player 74,Team C,Test,Dubai,241,135,178.52,5,8.4,Team E,90.46,Team C,4.5,Facebook,35803,1054,129,0.8
+Player 67,Team A,T20,Cape Town,197,89,221.35,1,7.89,Team D,85.29,Team E,4.69,Twitter,38698,1477,1558,0.04
+Player 66,Team B,Test,Cape Town,257,131,196.18,0,9.6,Team E,82.25,Team A,3.54,Facebook,35624,381,80,0.77
+Player 58,Team A,ODI,Mumbai,188,140,134.29,1,6.23,Team E,81.54,Team D,4.99,YouTube,34419,2333,1110,0.24
+Player 41,Team D,ODI,Dubai,129,132,97.73,1,9.1,Team E,61.58,Team A,3.58,Facebook,47488,3558,1629,-0.99
+Player 25,Team B,Test,London,50,36,138.89,1,5.27,Team D,82.16,Team E,2.41,YouTube,23165,1979,1597,0.65
+Player 86,Team D,T20,Sydney,0,114,0.0,0,5.06,Team E,82.44,Team A,4.66,YouTube,11130,4543,793,0.13
+Player 60,Team B,ODI,Dubai,19,33,57.58,5,9.53,Team E,79.18,Team A,4.89,YouTube,19499,4748,1832,-0.07
+Player 41,Team C,T20,Cape Town,162,135,120.0,3,7.06,Team D,94.31,Team A,3.66,Instagram,17933,1878,1590,-0.9
+Player 61,Team B,ODI,Mumbai,22,89,24.72,3,6.79,Team E,59.45,Team E,4.79,Twitter,40946,385,165,0.85
+Player 28,Team B,T20,London,18,80,22.5,4,4.16,Team D,94.49,Team B,3.1,YouTube,38831,2437,1997,-0.38
+Player 98,Team D,ODI,Mumbai,11,12,91.67,0,3.17,Team A,65.12,Team B,4.42,Twitter,37757,4274,1849,-0.28
+Player 45,Team A,T20,Cape Town,167,62,269.35,0,8.41,Team C,80.47,Team D,3.08,Facebook,28610,412,1663,0.56
+Player 40,Team E,Test,London,186,19,978.95,4,3.94,Team C,70.11,Team B,2.28,Facebook,32182,2186,284,0.93
+Player 1,Team A,Test,Dubai,46,89,51.69,4,3.43,Team C,82.99,Team E,3.74,Instagram,41108,3844,1250,0.22
+Player 24,Team C,ODI,Dubai,18,16,112.5,2,3.43,Team A,80.06,Team E,3.21,YouTube,24376,314,1998,-0.97
+Player 12,Team D,ODI,London,71,61,116.39,3,4.78,Team B,91.59,Team B,2.74,Facebook,4225,1577,1505,0.75
+Player 66,Team A,T20,Mumbai,15,137,10.95,5,4.02,Team A,71.81,Team D,2.47,Facebook,13757,1363,314,0.72
+Player 70,Team C,Test,London,185,37,500.0,5,9.77,Team D,67.41,Team D,1.53,Twitter,12834,3227,694,-0.17
+Player 7,Team E,Test,Cape Town,150,63,238.1,1,4.45,Team B,60.74,Team D,4.38,Twitter,6876,2324,1132,-0.72
+Player 93,Team B,T20,Mumbai,130,138,94.2,3,4.7,Team B,67.23,Team B,1.58,YouTube,27746,3366,1784,-0.87
+Player 78,Team D,ODI,London,61,137,44.53,0,8.62,Team C,63.78,Team C,3.32,YouTube,2175,3652,1172,0.01
+Player 96,Team C,T20,Dubai,56,125,44.8,1,6.96,Team C,93.81,Team D,3.4,Instagram,19986,1944,516,-0.1
+Player 8,Team B,T20,Sydney,70,90,77.78,2,9.14,Team E,80.67,Team B,4.05,Twitter,34180,4860,1213,0.04
+Player 83,Team B,T20,Sydney,183,113,161.95,4,8.31,Team D,72.76,Team A,1.57,Twitter,34878,2895,421,0.69
+Player 80,Team C,ODI,Dubai,38,18,211.11,3,3.55,Team D,95.55,Team B,2.81,Facebook,28068,3258,1951,-0.05
+Player 66,Team E,ODI,London,115,42,273.81,3,8.82,Team E,90.42,Team A,1.87,YouTube,23404,213,1353,0.26
+Player 43,Team C,ODI,Sydney,125,56,223.21,1,6.88,Team B,97.81,Team E,1.9,Twitter,4014,2504,1208,0.82
+Player 87,Team A,ODI,Sydney,126,44,286.36,2,9.7,Team A,73.35,Team B,1.91,Instagram,19284,3553,1658,0.59
+Player 73,Team D,T20,Mumbai,62,9,688.89,4,8.67,Team C,71.71,Team A,3.44,Twitter,15306,2846,1248,-0.42
+Player 15,Team C,T20,Mumbai,28,116,24.14,1,6.92,Team B,54.07,Team D,2.92,Instagram,15039,1070,1124,0.32
+Player 41,Team B,T20,Dubai,6,133,4.51,3,3.21,Team B,61.72,Team D,4.06,Instagram,34217,1978,729,0.81
+Player 67,Team D,T20,Dubai,123,149,82.55,1,8.21,Team E,72.63,Team A,2.8,Twitter,24070,2810,889,-0.55
+Player 93,Team C,T20,Mumbai,133,132,100.76,2,9.62,Team A,86.13,Team C,4.38,Facebook,26536,2731,949,-0.66
+Player 86,Team D,T20,Dubai,131,129,101.55,2,3.16,Team A,89.7,Team E,2.14,Twitter,28953,2900,1004,-0.78
+Player 56,Team B,T20,Dubai,11,113,9.73,3,7.35,Team D,65.11,Team D,4.55,YouTube,15232,4661,210,-0.71
+Player 93,Team C,ODI,Mumbai,77,48,160.42,1,3.91,Team C,52.53,Team D,2.36,Twitter,46710,567,967,-0.46
+Player 55,Team C,ODI,Mumbai,183,33,554.55,2,4.44,Team A,64.28,Team C,3.03,Facebook,12474,3399,64,-0.66
+Player 97,Team C,Test,Sydney,0,39,0.0,5,7.75,Team B,63.44,Team A,2.64,Facebook,48324,1032,1789,0.16
+Player 75,Team A,ODI,Dubai,174,33,527.27,4,8.68,Team E,50.22,Team D,4.47,Facebook,8188,4306,1301,-0.3
+Player 89,Team B,T20,Cape Town,173,101,171.29,1,9.41,Team B,68.99,Team A,2.89,Instagram,44114,1990,448,-0.62
+Player 32,Team C,T20,Dubai,69,19,363.16,1,9.41,Team A,87.1,Team D,2.36,Instagram,38942,4759,1935,0.38
+Player 60,Team A,Test,Mumbai,110,6,1833.33,5,4.0,Team E,91.71,Team A,3.51,YouTube,44918,433,675,0.3
+Player 14,Team A,ODI,London,34,5,680.0,1,3.21,Team A,84.49,Team B,4.49,Twitter,8907,4420,341,-0.16
+Player 61,Team B,ODI,Dubai,95,103,92.23,5,4.45,Team B,61.25,Team E,4.33,Instagram,43604,785,1454,0.52
+Player 46,Team A,T20,Dubai,145,67,216.42,4,6.83,Team E,81.76,Team D,3.6,Twitter,4908,753,779,0.07
+Player 26,Team B,Test,Mumbai,338,110,307.27,2,6.04,Team E,92.95,Team C,4.56,YouTube,24526,3711,1637,0.42
+Player 41,Team D,ODI,Dubai,75,12,625.0,1,9.96,Team C,93.74,Team A,1.76,Instagram,1071,4645,1187,-0.55
+Player 33,Team B,ODI,Mumbai,78,121,64.46,5,6.88,Team D,70.29,Team A,3.77,YouTube,46846,906,692,0.81
+Player 32,Team B,T20,Cape Town,53,61,86.89,2,4.52,Team B,81.09,Team A,2.84,Instagram,23060,3238,1195,0.71
+Player 54,Team E,T20,Cape Town,87,76,114.47,3,4.95,Team C,93.22,Team D,1.55,Twitter,46460,3150,1884,-0.19
+Player 33,Team E,T20,Cape Town,79,63,125.4,1,8.17,Team B,76.95,Team D,3.41,Facebook,41284,338,54,0.85
+Player 42,Team E,T20,London,49,10,490.0,2,8.74,Team D,94.47,Team C,1.55,Twitter,27399,4983,1636,0.64
+Player 98,Team B,T20,Dubai,168,11,1527.27,0,7.61,Team A,58.15,Team D,1.66,YouTube,38706,4663,1237,0.92
+Player 93,Team D,T20,Mumbai,86,58,148.28,1,3.93,Team C,60.44,Team D,4.77,Twitter,42671,2868,1888,0.45
+Player 50,Team A,ODI,Sydney,148,111,133.33,2,8.44,Team E,72.74,Team C,4.79,YouTube,45570,1906,1322,-0.99
+Player 17,Team A,Test,London,61,143,42.66,0,4.68,Team B,64.8,Team B,4.83,YouTube,26318,3869,1545,-0.05
+Player 76,Team A,ODI,Sydney,141,18,783.33,0,3.88,Team A,59.13,Team E,4.05,Instagram,21411,2553,1584,-0.03
+Player 97,Team D,ODI,Cape Town,31,132,23.48,5,5.22,Team D,63.6,Team C,1.62,YouTube,23109,2239,744,-0.32
+Player 38,Team B,Test,Cape Town,81,88,92.05,0,5.33,Team C,86.1,Team E,4.54,Twitter,2182,2464,1169,-0.31
+Player 86,Team A,ODI,Sydney,65,11,590.91,2,4.18,Team D,74.73,Team C,3.85,Facebook,19190,269,414,0.18
+Player 94,Team D,T20,Cape Town,158,19,831.58,1,8.0,Team A,91.26,Team A,3.57,Twitter,7988,814,1830,-0.75
+Player 32,Team A,Test,Cape Town,217,112,193.75,1,3.02,Team D,78.82,Team D,4.9,Facebook,32685,3180,1752,0.94
+Player 5,Team B,T20,Mumbai,43,53,81.13,2,6.56,Team E,52.64,Team B,2.15,Twitter,10721,2750,364,0.04
+Player 70,Team A,T20,Sydney,98,120,81.67,3,4.23,Team D,88.97,Team C,2.03,Instagram,45191,3605,354,0.06
+Player 33,Team E,Test,Sydney,26,77,33.77,5,3.18,Team C,61.55,Team D,3.7,Twitter,21800,2070,1444,0.47
+Player 45,Team B,ODI,Sydney,74,97,76.29,3,9.53,Team E,67.63,Team D,2.11,YouTube,6345,214,1066,0.95
+Player 23,Team D,T20,London,181,55,329.09,3,3.14,Team E,60.75,Team C,4.43,Facebook,28942,846,1917,-0.46
+Player 22,Team D,T20,Cape Town,44,14,314.29,4,9.71,Team D,65.56,Team D,2.62,Instagram,25587,1857,79,-0.64
+Player 23,Team D,T20,Sydney,34,131,25.95,0,6.53,Team A,89.42,Team B,3.66,YouTube,6565,519,1542,-0.51
+Player 17,Team A,T20,Dubai,7,69,10.14,1,3.76,Team A,52.43,Team B,4.57,Twitter,23451,1645,407,0.05
+Player 11,Team A,ODI,Dubai,140,18,777.78,3,4.9,Team B,69.04,Team B,4.0,Instagram,1006,569,738,0.07
+Player 40,Team B,T20,Mumbai,53,124,42.74,4,9.06,Team A,72.71,Team C,1.87,Instagram,31078,4025,614,-0.48
+Player 15,Team A,Test,Mumbai,118,98,120.41,2,5.68,Team B,75.28,Team D,4.16,YouTube,22158,870,1914,-0.35
+Player 6,Team E,Test,Sydney,269,114,235.96,2,3.07,Team E,97.33,Team B,3.25,Instagram,40565,2287,278,-0.57
+Player 6,Team B,Test,Dubai,172,1,17200.0,3,7.93,Team C,55.94,Team E,3.64,Twitter,23877,3496,1283,0.18
+Player 22,Team E,ODI,Cape Town,152,116,131.03,5,5.04,Team D,73.43,Team A,3.91,Twitter,26813,3573,549,0.89
+Player 38,Team D,T20,Mumbai,16,126,12.7,5,9.11,Team E,61.06,Team D,3.89,Instagram,49419,749,1952,0.95
+Player 53,Team C,Test,London,256,27,948.15,0,9.28,Team A,51.89,Team C,4.18,YouTube,9512,1804,1759,0.33
+Player 13,Team D,T20,London,66,6,1100.0,5,9.77,Team A,67.24,Team C,1.85,YouTube,1839,2104,426,0.23
+Player 85,Team E,ODI,London,41,77,53.25,2,3.45,Team A,58.65,Team E,2.82,Twitter,40159,4585,333,-0.42
+Player 90,Team C,ODI,London,92,121,76.03,1,5.72,Team C,73.12,Team C,4.13,Facebook,44104,4395,679,-0.97
+Player 11,Team D,T20,Mumbai,149,54,275.93,4,7.22,Team D,78.26,Team D,2.33,Instagram,46249,3153,1246,0.24
+Player 82,Team B,Test,Sydney,273,80,341.25,0,4.02,Team D,86.72,Team E,2.0,YouTube,26705,3675,99,0.5
+Player 72,Team D,T20,Cape Town,21,80,26.25,3,7.84,Team C,94.63,Team E,3.38,Instagram,39715,2762,763,0.22
+Player 7,Team B,Test,Sydney,228,124,183.87,0,8.47,Team C,81.38,Team A,2.5,Facebook,27149,3329,1970,-0.74
+Player 76,Team A,Test,Dubai,295,34,867.65,2,3.81,Team B,53.19,Team D,2.82,Instagram,43953,4097,446,-0.34
+Player 46,Team E,ODI,Cape Town,113,14,807.14,5,8.57,Team B,90.16,Team C,4.63,Instagram,2475,2634,1144,0.89
+Player 8,Team D,Test,London,126,127,99.21,5,5.62,Team E,78.51,Team D,1.82,Facebook,14908,678,323,-0.93
+Player 40,Team B,ODI,London,80,106,75.47,0,4.83,Team E,69.66,Team D,2.52,Twitter,38859,3675,1517,-0.2
+Player 66,Team E,ODI,Sydney,98,94,104.26,1,5.9,Team A,52.56,Team A,4.88,Instagram,13582,187,487,0.63
+Player 8,Team B,T20,Cape Town,14,96,14.58,4,5.6,Team E,66.91,Team A,3.82,Facebook,18211,1096,1132,0.76
+Player 44,Team B,T20,Dubai,89,11,809.09,2,9.03,Team A,64.06,Team D,4.63,Instagram,35389,624,1528,-0.86
+Player 76,Team D,T20,London,53,108,49.07,3,6.48,Team E,74.42,Team D,4.49,Facebook,43970,3861,1949,-0.72
+Player 18,Team D,Test,Sydney,128,114,112.28,1,4.93,Team E,53.11,Team C,1.73,YouTube,16565,3224,714,0.22
+Player 94,Team A,Test,Mumbai,216,121,178.51,2,7.52,Team C,70.88,Team A,3.88,Twitter,10855,3694,71,0.22
+Player 31,Team A,T20,Cape Town,197,107,184.11,0,9.54,Team A,83.66,Team D,4.01,Facebook,18365,616,1748,0.56
+Player 38,Team D,ODI,Mumbai,185,95,194.74,3,5.55,Team E,81.38,Team E,4.46,Facebook,42730,4559,221,-0.26
+Player 42,Team A,T20,Mumbai,96,116,82.76,4,5.2,Team D,52.99,Team D,3.74,Instagram,15149,408,1949,-0.15
+Player 61,Team C,T20,Mumbai,93,1,9300.0,0,5.1,Team E,94.21,Team D,3.35,YouTube,43896,1450,1763,-0.55
+Player 60,Team C,ODI,Dubai,16,18,88.89,1,8.65,Team A,88.0,Team A,4.12,YouTube,10567,2766,703,0.09
+Player 27,Team C,ODI,Sydney,158,50,316.0,0,4.02,Team A,51.98,Team E,4.71,Instagram,42786,1855,715,0.87
+Player 18,Team E,Test,Mumbai,237,69,343.48,2,7.77,Team B,96.16,Team C,3.28,Instagram,2118,4863,339,0.83
+Player 43,Team D,Test,London,166,123,134.96,3,5.31,Team D,81.93,Team C,3.75,Instagram,15964,4706,907,-0.57
+Player 36,Team E,Test,Sydney,112,134,83.58,2,7.67,Team B,65.89,Team A,2.68,Twitter,23369,3465,1128,-0.74
+Player 9,Team E,Test,London,3,32,9.38,2,4.78,Team E,93.4,Team C,1.78,Twitter,47010,3605,679,0.98
+Player 27,Team C,ODI,Mumbai,22,57,38.6,5,5.34,Team B,52.7,Team D,3.11,YouTube,48565,144,1388,0.32
+Player 62,Team B,ODI,Dubai,79,3,2633.33,3,8.22,Team B,65.07,Team D,3.47,YouTube,44226,600,940,0.79
+Player 10,Team C,T20,London,117,25,468.0,1,3.71,Team B,86.26,Team B,1.57,Twitter,34578,3124,1803,0.42
+Player 74,Team E,T20,London,42,70,60.0,3,9.82,Team A,69.08,Team E,1.66,YouTube,15752,888,884,0.5
+Player 41,Team C,T20,Mumbai,55,137,40.15,4,9.42,Team D,95.07,Team A,1.56,Facebook,29944,1039,686,-0.21
+Player 48,Team E,T20,Sydney,38,117,32.48,5,7.28,Team C,72.28,Team C,4.46,YouTube,48137,3254,1924,-0.68
+Player 29,Team A,ODI,London,93,116,80.17,0,5.7,Team A,53.84,Team E,3.22,Instagram,32863,3413,845,-0.82
+Player 100,Team A,Test,Mumbai,317,83,381.93,0,4.17,Team E,85.42,Team E,3.66,Twitter,17610,1527,105,-0.59
+Player 2,Team D,Test,Cape Town,333,99,336.36,5,7.13,Team A,54.65,Team A,1.87,Facebook,46853,1504,1566,-0.41
+Player 4,Team C,ODI,Mumbai,172,136,126.47,5,10.0,Team C,55.8,Team A,2.9,YouTube,6556,1384,434,-0.19
+Player 4,Team B,ODI,Cape Town,117,119,98.32,3,5.1,Team C,53.36,Team E,4.9,Instagram,46272,1831,1144,-0.42
+Player 27,Team A,Test,London,264,83,318.07,1,9.84,Team B,82.05,Team C,1.73,YouTube,17017,3153,1756,-0.82
+Player 29,Team C,T20,Mumbai,7,77,9.09,2,3.19,Team E,89.24,Team B,1.69,Instagram,48103,3948,1366,-0.68
+Player 48,Team C,T20,Cape Town,16,22,72.73,3,7.46,Team A,59.66,Team A,2.35,Facebook,22078,347,925,-0.09
+Player 54,Team A,ODI,Mumbai,170,115,147.83,4,7.41,Team C,81.01,Team D,4.0,Twitter,10331,3443,398,0.56
+Player 46,Team B,Test,Mumbai,275,132,208.33,2,8.37,Team A,53.31,Team E,2.53,Twitter,13996,4087,1646,0.67
+Player 15,Team D,T20,Dubai,185,95,194.74,2,5.45,Team C,62.96,Team B,1.77,YouTube,39446,3102,195,0.72
+Player 83,Team B,Test,Cape Town,342,136,251.47,4,4.58,Team A,90.05,Team E,3.97,YouTube,25066,2588,1340,-0.27
+Player 33,Team E,ODI,Dubai,14,63,22.22,2,4.96,Team E,88.17,Team C,4.94,Twitter,47519,5000,994,-0.18
+Player 83,Team B,ODI,Cape Town,133,65,204.62,5,3.65,Team C,92.52,Team C,3.89,YouTube,3186,735,1907,-0.04
+Player 47,Team A,Test,Sydney,267,99,269.7,4,3.62,Team D,54.65,Team B,3.96,Facebook,41336,4335,935,-0.35
+Player 94,Team E,T20,Cape Town,101,6,1683.33,2,7.05,Team D,90.81,Team B,1.8,Instagram,37909,1700,1800,-0.36
+Player 42,Team A,ODI,London,148,109,135.78,0,5.92,Team B,98.7,Team E,2.6,Facebook,27996,4789,1617,-0.04
+Player 99,Team A,ODI,Cape Town,19,93,20.43,2,5.14,Team B,79.54,Team D,4.0,Twitter,27409,2592,880,-0.25
+Player 67,Team D,Test,Dubai,36,14,257.14,3,5.17,Team B,81.78,Team D,3.08,Facebook,8094,4548,1656,0.39
+Player 20,Team D,ODI,Mumbai,7,149,4.7,5,5.5,Team B,98.91,Team A,2.85,Twitter,38354,4238,1732,-0.35
+Player 31,Team A,Test,Dubai,8,143,5.59,3,9.16,Team A,51.95,Team A,3.04,Facebook,21714,1409,1839,-0.48
+Player 71,Team D,ODI,Mumbai,117,15,780.0,4,6.87,Team B,56.73,Team D,3.86,Twitter,33976,4206,1473,-0.59
+Player 14,Team E,T20,Mumbai,50,56,89.29,3,4.91,Team D,63.92,Team A,2.66,YouTube,40673,4778,1655,0.14
+Player 41,Team E,T20,Dubai,23,145,15.86,1,4.22,Team E,68.33,Team E,4.81,Twitter,15159,3564,1299,-0.75
+Player 3,Team D,ODI,Sydney,32,49,65.31,2,4.4,Team C,78.76,Team B,2.19,Instagram,4926,4224,1170,0.52
+Player 45,Team D,Test,London,348,48,725.0,5,5.58,Team D,64.06,Team A,3.86,Twitter,15156,2344,354,-0.04
+Player 23,Team B,Test,Sydney,186,141,131.91,0,6.77,Team C,96.16,Team C,3.61,Facebook,2206,1377,155,0.8
+Player 96,Team E,T20,Cape Town,144,122,118.03,1,4.3,Team D,69.3,Team D,1.76,Instagram,1267,1586,1945,-0.74
+Player 91,Team A,T20,Dubai,38,37,102.7,2,9.25,Team C,52.25,Team B,1.51,Twitter,14032,3994,932,-0.61
+Player 18,Team B,ODI,Mumbai,145,85,170.59,2,9.36,Team C,58.48,Team B,2.93,Facebook,25860,1849,1748,-0.34
+Player 88,Team E,ODI,London,14,35,40.0,5,3.87,Team D,73.42,Team D,3.24,Instagram,5767,425,249,-0.09
+Player 91,Team C,Test,Sydney,209,51,409.8,5,9.67,Team E,81.09,Team C,3.51,YouTube,32782,841,702,-0.7
+Player 14,Team D,ODI,Dubai,146,54,270.37,1,5.1,Team D,76.42,Team B,4.74,YouTube,3885,322,1648,0.99
+Player 11,Team D,ODI,London,32,31,103.23,4,9.21,Team B,81.42,Team B,4.85,YouTube,9624,3680,1074,0.78
+Player 77,Team D,ODI,Sydney,191,5,3820.0,3,8.87,Team C,98.63,Team D,1.53,Facebook,43515,423,191,0.46
+Player 42,Team E,Test,Sydney,336,63,533.33,0,5.24,Team B,71.39,Team B,3.67,Twitter,15721,1305,1923,-0.27
+Player 16,Team D,ODI,Dubai,156,110,141.82,3,9.18,Team E,51.38,Team E,4.51,Twitter,8587,3243,1196,0.58
+Player 41,Team D,Test,Dubai,207,115,180.0,0,7.31,Team C,71.06,Team B,3.84,YouTube,37588,4588,1449,0.24
+Player 92,Team C,Test,London,203,121,167.77,4,9.56,Team A,81.31,Team C,1.55,YouTube,6244,254,975,-0.9
+Player 72,Team A,Test,Mumbai,225,136,165.44,5,7.1,Team E,94.17,Team C,4.59,Instagram,11653,856,1946,-0.89
+Player 2,Team E,Test,Sydney,272,89,305.62,4,9.7,Team B,96.43,Team C,3.62,Facebook,49004,3849,1137,0.33
+Player 53,Team B,T20,London,95,12,791.67,0,3.1,Team C,85.28,Team D,4.04,Twitter,42512,4911,1692,0.32
+Player 6,Team E,ODI,Cape Town,125,135,92.59,5,9.47,Team E,87.62,Team B,2.0,Instagram,25033,4471,1825,0.25
+Player 72,Team C,T20,Dubai,150,23,652.17,2,7.69,Team D,68.42,Team E,4.76,Instagram,38483,4996,1682,0.68
+Player 52,Team B,Test,Sydney,213,102,208.82,0,5.42,Team B,74.41,Team C,1.94,Twitter,41088,1436,1105,-0.23
+Player 84,Team E,T20,Mumbai,198,48,412.5,5,4.82,Team D,53.97,Team A,4.82,Facebook,40187,924,621,0.86
+Player 25,Team A,Test,Dubai,309,55,561.82,3,7.65,Team E,69.11,Team B,4.35,Instagram,4147,4499,1077,0.72
+Player 86,Team A,ODI,Sydney,47,107,43.93,1,6.7,Team D,58.19,Team C,3.65,Facebook,12405,1191,1927,0.29
+Player 100,Team D,T20,Mumbai,198,112,176.79,0,9.1,Team E,58.92,Team A,2.49,Twitter,38973,436,355,-0.61
+Player 51,Team C,ODI,London,81,88,92.05,2,8.8,Team B,54.24,Team D,4.51,Facebook,18830,1444,595,-0.24
+Player 5,Team A,T20,Cape Town,116,59,196.61,4,8.89,Team E,74.39,Team B,3.86,Instagram,5391,828,1348,-0.96
+Player 84,Team C,ODI,Dubai,178,125,142.4,4,6.19,Team A,93.67,Team E,1.81,Instagram,6962,1964,1334,0.47
+Player 9,Team E,ODI,London,85,115,73.91,2,3.5,Team E,77.77,Team D,3.5,YouTube,30161,4539,1913,0.73
+Player 45,Team D,T20,Sydney,11,103,10.68,1,9.09,Team D,91.67,Team C,3.31,Twitter,32921,3024,745,0.76
+Player 86,Team C,ODI,Mumbai,122,25,488.0,0,3.81,Team D,73.57,Team C,2.39,YouTube,29416,4444,1176,-0.97
+Player 86,Team A,Test,Mumbai,383,2,19150.0,3,6.34,Team C,83.75,Team D,4.26,Instagram,21897,3368,1713,0.25
+Player 11,Team C,T20,Cape Town,117,102,114.71,0,9.53,Team B,57.56,Team A,4.54,Twitter,12720,1625,938,0.28
+Player 74,Team E,ODI,Dubai,179,62,288.71,4,6.8,Team E,90.96,Team C,2.04,Twitter,13034,1030,1964,0.54
+Player 77,Team E,ODI,London,157,80,196.25,2,5.59,Team C,96.34,Team B,4.3,Facebook,27300,3909,1028,-0.4
+Player 31,Team B,T20,Mumbai,71,92,77.17,5,3.42,Team B,66.52,Team B,1.75,Instagram,15250,103,1513,0.78
+Player 55,Team B,Test,Dubai,300,114,263.16,0,7.39,Team C,64.74,Team D,1.71,Facebook,12892,4537,592,0.88
+Player 31,Team A,T20,Dubai,24,150,16.0,2,3.83,Team E,51.91,Team C,4.06,YouTube,7719,2695,1280,0.74
+Player 15,Team C,T20,Mumbai,84,127,66.14,4,5.37,Team B,80.0,Team B,4.6,YouTube,49266,1910,1435,0.1
+Player 65,Team D,Test,Cape Town,28,38,73.68,0,8.21,Team E,61.22,Team D,2.8,Facebook,2512,932,1501,0.61
+Player 39,Team A,ODI,Mumbai,71,104,68.27,2,7.26,Team B,53.03,Team B,3.73,Instagram,46659,479,1702,0.91
+Player 63,Team B,Test,Cape Town,222,45,493.33,4,3.75,Team B,63.09,Team A,4.58,Twitter,3955,1441,650,-0.7
+Player 66,Team A,ODI,Cape Town,31,140,22.14,4,8.95,Team E,53.72,Team D,4.36,Instagram,45883,2158,719,-0.24
+Player 11,Team D,Test,Dubai,16,114,14.04,2,8.55,Team E,56.74,Team E,2.28,Facebook,34312,4954,1790,0.11
+Player 53,Team D,T20,Mumbai,158,1,15800.0,2,8.09,Team C,52.33,Team E,4.3,Twitter,6549,3817,1329,0.04
+Player 49,Team C,ODI,Mumbai,61,141,43.26,1,9.59,Team D,68.85,Team C,4.07,Facebook,10888,374,1516,-0.87
+Player 35,Team D,Test,Cape Town,365,133,274.44,1,3.62,Team D,71.87,Team C,2.7,Facebook,30456,3071,276,-0.21
+Player 61,Team A,ODI,Dubai,111,147,75.51,2,6.28,Team C,70.35,Team D,3.32,Facebook,44714,3313,1498,0.57
+Player 22,Team B,Test,London,235,28,839.29,1,5.4,Team A,53.44,Team B,4.83,Twitter,5057,1161,608,0.43
+Player 70,Team B,Test,Sydney,133,27,492.59,0,5.78,Team B,64.1,Team D,4.81,YouTube,19817,3448,1055,0.86
+Player 19,Team E,T20,Sydney,124,19,652.63,2,3.82,Team D,68.91,Team A,2.01,Facebook,17296,4279,1202,-0.83
+Player 19,Team A,T20,Mumbai,105,22,477.27,4,5.24,Team E,75.79,Team E,4.45,Instagram,20614,1457,523,0.35
+Player 78,Team B,Test,Mumbai,176,127,138.58,2,7.37,Team A,75.53,Team D,1.55,Instagram,38438,3093,1613,0.92
+Player 66,Team C,Test,Sydney,400,93,430.11,3,5.77,Team E,74.53,Team E,4.09,Instagram,20310,3996,1441,-0.62
+Player 21,Team E,T20,London,149,87,171.26,0,7.45,Team B,92.44,Team E,2.65,Facebook,44346,408,1607,0.27
+Player 3,Team A,ODI,Dubai,164,11,1490.91,4,7.9,Team C,59.39,Team C,1.64,Facebook,14405,714,486,0.56
+Player 17,Team E,Test,London,137,134,102.24,3,5.72,Team D,84.59,Team D,1.54,Facebook,31140,3477,367,-0.03
+Player 98,Team A,T20,London,152,69,220.29,3,7.89,Team E,97.74,Team C,3.21,Twitter,16762,2409,816,-0.67
+Player 43,Team B,Test,Cape Town,244,43,567.44,1,5.89,Team E,50.65,Team E,1.61,Twitter,41479,1318,137,0.8
+Player 32,Team D,ODI,Sydney,83,97,85.57,4,6.39,Team B,98.69,Team A,4.92,Facebook,32086,1382,1917,0.19
+Player 53,Team C,Test,Cape Town,313,71,440.85,0,5.13,Team A,76.55,Team A,2.39,YouTube,32102,4438,815,0.67
+Player 49,Team E,T20,Cape Town,191,100,191.0,4,8.1,Team B,91.29,Team E,4.27,Twitter,4437,1226,820,-0.56
+Player 57,Team B,Test,London,23,54,42.59,2,7.71,Team E,63.82,Team D,4.3,Facebook,14684,1259,1206,0.87
+Player 4,Team A,ODI,Sydney,108,58,186.21,1,6.53,Team E,68.46,Team E,2.02,Facebook,8889,3645,1709,0.24
+Player 71,Team D,Test,Sydney,369,74,498.65,5,3.49,Team E,78.33,Team B,1.53,Instagram,40682,3903,600,0.43
+Player 64,Team B,ODI,London,82,27,303.7,0,3.86,Team D,79.55,Team E,3.86,Twitter,49243,3651,87,0.27
+Player 1,Team E,ODI,Sydney,200,23,869.57,0,3.19,Team A,89.24,Team C,4.43,Facebook,46374,2875,1697,0.03
+Player 38,Team C,T20,Dubai,109,61,178.69,3,9.66,Team E,79.03,Team C,4.5,Facebook,15111,1634,1173,0.06
+Player 6,Team E,ODI,Dubai,115,143,80.42,3,7.25,Team B,74.19,Team C,3.56,YouTube,49880,3606,836,0.43
+Player 37,Team B,T20,London,19,126,15.08,0,6.99,Team C,65.68,Team B,3.66,Instagram,49251,4523,660,-0.96
+Player 52,Team D,ODI,Cape Town,0,78,0.0,3,8.58,Team B,60.9,Team A,1.85,Facebook,10958,4445,1807,0.85
+Player 87,Team D,ODI,Dubai,60,114,52.63,1,7.43,Team B,74.79,Team C,4.38,Facebook,17035,4237,1218,-0.32
+Player 45,Team A,Test,Sydney,35,48,72.92,1,3.24,Team D,86.5,Team C,5.0,Twitter,49242,3614,223,0.48
+Player 7,Team D,ODI,Sydney,10,113,8.85,5,6.19,Team D,75.04,Team D,4.05,Twitter,28910,4367,1371,-0.59
+Player 75,Team C,T20,Cape Town,187,84,222.62,5,5.62,Team B,60.31,Team C,1.64,Instagram,14786,2967,1455,0.96
+Player 18,Team E,Test,Sydney,165,9,1833.33,2,9.56,Team E,67.44,Team D,2.69,Instagram,39361,3389,1206,0.81
+Player 11,Team A,Test,Dubai,174,83,209.64,0,4.8,Team D,80.84,Team C,2.6,Instagram,14429,2959,634,-0.68
+Player 12,Team A,T20,London,156,101,154.46,2,8.68,Team C,96.59,Team E,3.5,Twitter,29081,2273,61,0.26
+Player 53,Team E,T20,Sydney,92,150,61.33,4,6.71,Team D,94.28,Team A,2.99,YouTube,12249,2407,1828,-0.84
+Player 84,Team D,Test,London,122,57,214.04,5,8.52,Team D,82.51,Team B,1.76,YouTube,25972,2837,1627,0.54
+Player 9,Team E,T20,Cape Town,120,104,115.38,5,8.87,Team C,78.53,Team D,3.73,Facebook,33828,3671,1600,0.25
+Player 6,Team A,ODI,Sydney,154,50,308.0,0,5.14,Team E,56.94,Team B,2.74,Instagram,36017,2456,428,0.55
